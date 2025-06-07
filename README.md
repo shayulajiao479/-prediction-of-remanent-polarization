@@ -1,1 +1,0 @@
-# -prediction-of-remanent-polarization
